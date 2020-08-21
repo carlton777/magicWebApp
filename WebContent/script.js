@@ -41,6 +41,7 @@
 	}
 
     //document.forms['reg_frm'].submit();	
+	//test
 	document.reg_frm.submit();
 
 }
