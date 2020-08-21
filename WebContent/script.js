@@ -42,6 +42,7 @@
 
     //document.forms['reg_frm'].submit();	
 	//test
+	//test2
 	document.reg_frm.submit();
 
 }
