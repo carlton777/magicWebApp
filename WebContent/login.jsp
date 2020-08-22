@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="EUC-KR">
-<title>title here</title>
+<title>title</title>
 </head>
 <body>
 	<table border="1" align="center">
